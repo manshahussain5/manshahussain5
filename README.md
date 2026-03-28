@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi  I'm a Full Stack Web Developer skilled in building responsive and scalable web applications using modern technologies. I also have a strong interest in AI and data-driven solutions.<br><br>👨‍💻 Currently working on MERN stack projects and AI-integrated web applications  <br>🤝 Open to collaborate on web development, AI, and startup projects  <br>🌱 Learning advanced backend systems, Next.js, Machine Learning, and Deep Learning  <br>💬 Ask me about React, Node.js, APIs, Python, and basic Machine Learning  <br>⚡ Fun fact: I love debugging, improving real-world websites, and adding AI features to them
+Hi I'm a Software Engineer & Full Stack Web Developer skilled in building responsive and scalable web applications using modern technologies. I also have a strong interest in AI and data-driven solutions.<br><br>👨‍💻 Currently working on MERN stack projects and AI-integrated web applications  <br>🤝 Open to collaborate on web development, AI, and startup projects  <br>🌱 Learning advanced backend systems, Next.js, Machine Learning, and Deep Learning  <br>💬 Ask me about React, Node.js, APIs, Python, and basic Machine Learning  <br>⚡ Fun fact: I love debugging, improving real-world websites, and adding AI features to them
 
 
 ## 🌐 Socials:
